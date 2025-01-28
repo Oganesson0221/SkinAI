@@ -4,9 +4,6 @@
 
 This is our Mini-Project for Introduction to Data Science and Artificial Intelligence (SC1005). Our dataset was sourced from Kaggle, which contains labeled images of various skin conditions.
 
-For a detailed walkthrough, please view the source code in the following order:
-
-1.
 
 ## Problem Definition
 
